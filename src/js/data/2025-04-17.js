@@ -72,19 +72,19 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
 
-{ 
-    name: "X",
-    img: "X",
-    opts: {
-      faction: ["X", "X"],
-      rarity: ["X"],
-      future: X,
-      npc: X,
-      altform: X,
-      skin: X
-    }
-}, 
-THIS IS EMPTY DON'T FUCKING CHANGE
+//{ 
+    //name: "X",
+    //img: "X",
+    //opts: {
+      //faction: ["X", "X"],
+      //rarity: ["X"],
+      //future: X,
+      //npc: X,
+      //altform: X,
+      //skin: X
+    //}
+//}, 
+//THIS IS EMPTY DON'T FUCKING CHANGE
 
 //begin chars buhhhhh
 //cunning hares
@@ -225,7 +225,7 @@ THIS IS EMPTY DON'T FUCKING CHANGE
     }
 },
 
-//OBOOOOOOL SQUAAAAAAAAAAAAAAAAAAAAD
+//OBOL SQUAAAAAAAAAAAAAAAAAAAAD
 { 
     name: "Soldier 11",
     img: "X",
