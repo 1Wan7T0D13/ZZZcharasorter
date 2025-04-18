@@ -28,6 +28,19 @@ dataSet[dataSetVersion].options = [
       // {name: "X", key: "X"}, empty don't change
     ]
   },
+  
+  {
+    name: "Select by rarity",
+    key: "rarity",
+    tooltip: "Check this to choose rarities",
+    checked: false,
+    sub: 
+    [ 
+      {name: "S-Ranks", key: "srank"},
+      {name: "A-Ranks", key: "arank"},
+      {name: "Unknown Rank", key: "norank"},
+    ]
+  },
 
   {
     name: "Future characters",
@@ -43,18 +56,7 @@ dataSet[dataSetVersion].options = [
       checked: true,
   },
 
-  {
-  name: "Select by rarity",
-    key: "rarity",
-    tooltip: "Check this to choose rarities",
-    checked: false,
-    sub: 
-    [ 
-      {name: "S-Ranks", key: "srank"},
-      {name: "A-Ranks", key: "arank"},
-      {name: "Unknown Rank", key: "norank"},
-    ]
-  },
+
   {
     name: "Add character alts",
       key: "altform",
