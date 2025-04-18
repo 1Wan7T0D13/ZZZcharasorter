@@ -72,19 +72,19 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
 
-{ 
-    name: "X",
-    img: "X",
-    opts: {
-      faction: ["X", "X"],
-      rarity: ["X"],
-      future: X,
-      npc: X,
-      altform: X,
-      skin: X
-    }
-}, 
-THIS IS EMPTY DON'T FUCKING CHANGE
+//{ 
+    //name: "X",
+    //img: "X",
+    //opts: {
+      //faction: ["X", "X"],
+      //rarity: ["X"],
+      //future: X,
+      //npc: X,
+      //altform: X,
+      //skin: X
+    //}
+//}, 
+//THIS IS EMPTY DON'T FUCKING CHANGE
 
 //begin chars buhhhhh
 //cunning hares
@@ -405,7 +405,7 @@ THIS IS EMPTY DON'T FUCKING CHANGE
 //void hunters
 { 
     name: "Swordmaster",
-    img: "X",
+    img: "npcswordmaster.png",
     opts: {
       faction: ["void"],
       rarity: ["norank"],
@@ -414,7 +414,7 @@ THIS IS EMPTY DON'T FUCKING CHANGE
 },
 { 
     name: "Lieutenant Colonel Dan",
-    img: "X",
+    img: "npcbatyasida.png",
     opts: {
       faction: ["void"],
       rarity: ["norank"],
@@ -423,7 +423,7 @@ THIS IS EMPTY DON'T FUCKING CHANGE
 },
 { 
     name: "Sunbringer",
-    img: "X",
+    img: "npcsunbringer.png",
     opts: {
       faction: ["void"],
       rarity: ["norank"],
@@ -432,7 +432,7 @@ THIS IS EMPTY DON'T FUCKING CHANGE
 },
 { 
     name: "Joyous",
-    img: "X",
+    img: "npcjoyous.png",
     opts: {
       faction: ["void"],
       rarity: ["norank"],
@@ -441,7 +441,7 @@ THIS IS EMPTY DON'T FUCKING CHANGE
 },
 { 
     name: "Colonel Vike",
-    img: "X",
+    img: "npcvike.png",
     opts: {
       faction: ["void"],
       rarity: ["norank"],
@@ -450,7 +450,7 @@ THIS IS EMPTY DON'T FUCKING CHANGE
 },
 { 
     name: "Leader of the Falkenhayn Mercenary Troupe",
-    img: "X",
+    img: "npcvoidmercenaryboss.png",
     opts: {
       faction: ["void"],
       rarity: ["norank"],
@@ -459,7 +459,7 @@ THIS IS EMPTY DON'T FUCKING CHANGE
 },
 { 
     name: "Professor Arche",
-    img: "X",
+    img: "npcarche.png",
     opts: {
       faction: ["void"],
       rarity: ["norank"],
@@ -470,7 +470,7 @@ THIS IS EMPTY DON'T FUCKING CHANGE
 //idols
 { 
     name: "Robot girl",
-    img: "X",
+    img: "idolyutane.png",
     opts: {
       faction: ["idols"],
       rarity: ["norank"],
@@ -479,7 +479,7 @@ THIS IS EMPTY DON'T FUCKING CHANGE
 }, 
 { 
     name: "Angel girl",
-    img: "X",
+    img: "idolsariel.png",
     opts: {
       faction: ["idols"],
       rarity: ["norank"],
@@ -488,7 +488,7 @@ THIS IS EMPTY DON'T FUCKING CHANGE
 }, 
 { 
     name: "Blonde girl",
-    img: "X",
+    img: "idolchinatsu.png",
     opts: {
       faction: ["idols"],
       rarity: ["norank"],
@@ -525,6 +525,359 @@ THIS IS EMPTY DON'T FUCKING CHANGE
     }
 }, 
   
-//npcs somewhen idk
+//npc
+{ 
+    name: "Asha",
+    img: "npcasha.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+}, 
+{ 
+    name: "Bellum",
+    img: "npcbellum.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Bertha",
+    img: "npcbertha.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Bid Daddy",
+    img: "npcbigdaddy.png",
+    opts: {
+      faction: ["soc"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Justin Bringer",
+    img: "npcbringer.png",
+    opts: {
+      faction: ["neps"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Chop",
+    img: "npcchop.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Coco",
+    img: "npccoco.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Elfy",
+    img: "npcelfy.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Enzo",
+    img: "npcenzo.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Eous",
+    img: "npceous.png",
+    opts: {
+      faction: ["random"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Girl A",
+    img: "npcgirla.png",
+    opts: {
+      faction: ["silver"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Unknown thiren guy",
+    img: "npcguyidk.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Hartman Ravenclock",
+    img: "npchartmanravenclock.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Howl",
+    img: "npchowl.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Inky",
+    img: "npcinky.png",
+    opts: {
+      faction: ["random"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Lyla",
+    img: "npclyla.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Miyabi's mother",
+    img: "npcmiyabimom.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Monica",
+    img: "npcmonica.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Mors",
+    img: "npcmors.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Null_Face",
+    img: "npcnullface.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Old Duyi",
+    img: "npcoldduyi.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Perlman",
+    img: "npcperlman.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Pompey",
+    img: "npcpompey.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Rain",
+    img: "npcrain.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Ray",
+    img: "npcray.png",
+    opts: {
+      faction: ["nedf"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Roland",
+    img: "npcrolands.png",
+    opts: {
+      faction: ["nedf"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Sarah",
+    img: "npcsarah.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Unknown guy",
+    img: "npcseriousguy.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Sjal",
+    img: "npcsjal.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Susie",
+    img: "npcsusie.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Tin Master",
+    img: "npctinmaster.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Tomiya",
+    img: "npctomiya.png",
+    opts: {
+      faction: ["neps"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Twiggy",
+    img: "npctwiggy.png",
+    opts: {
+      faction: ["silver"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Venus",
+    img: "npcvenus.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Joran De Winter",
+    img: "npcwinter.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+{ 
+    name: "Tessa De Winter",
+    img: "npcwinter2.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      npc: true
+    }
+},
+
+//2.x teaser unknowns
+{ 
+    name: "Racoon girl",
+    img: "racoongirl.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      future: true
+    }
+}, 
+{ 
+    name: "Alice",
+    img: "alice.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      future: true
+    }
+}, 
+{ 
+    name: "Zhao",
+    img: "zhao.png",
+    opts: {
+      faction: ["nofact"],
+      rarity: ["norank"],
+      future: true
+    }
+}, 
 
 ];
