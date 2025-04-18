@@ -3,7 +3,7 @@ dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
-    name: "Select all Factions",
+    name: "Select by Factions",
     key: "faction",
     tooltip: "Check this to choose factions",
     checked: false,
@@ -43,31 +43,31 @@ dataSet[dataSetVersion].options = [
   },
 
   {
-    name: "Future characters",
+    name: "Remove future characters",
       key: "future",
       tooltip: "This is for characters who will be released in the future",
-      checked: true,
+      checked: false,
   },
   
   {
-    name: "Add notable NPCs",
+    name: "Remove notable NPCs",
       key: "npc",
       tooltip: "Check this to add notable NPCs",
-      checked: true,
+      checked: false,
   },
 
 
   {
-    name: "Add character alts",
+    name: "Remove character alts",
       key: "altform",
       tooltip: "Check this to add alternative forms of character",
-      checked: true,
+      checked: false,
   },
   {
-    name: "Add skins",
+    name: "Remove skins",
       key: "skin",
       tooltip: "Check this to add skins",
-      checked: false,
+      checked: true,
   },
 
 ];
