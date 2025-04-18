@@ -72,19 +72,19 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
 
-//{ 
-    //name: "X",
-    //img: "X",
-    //opts: {
-      //faction: ["X", "X"],
-      //rarity: ["X"],
-      //future: X,
-      //npc: X,
-      //altform: X,
-      //skin: X
-    //}
-//}, 
-//THIS IS EMPTY DON'T FUCKING CHANGE
+{ 
+    name: "X",
+    img: "X",
+    opts: {
+      faction: ["X", "X"],
+      rarity: ["X"],
+      future: X,
+      npc: X,
+      altform: X,
+      skin: X
+    }
+}, 
+THIS IS EMPTY DON'T FUCKING CHANGE
 
 //begin chars buhhhhh
 //cunning hares
@@ -496,6 +496,35 @@ dataSet[dataSetVersion].characterData = [
     }
 }, 
 
+//yunkui
+{ 
+    name: "Yi Xuan",
+    img: "yixuan.png",
+    opts: {
+      faction: ["yunkyi"],
+      rarity: ["norank"],
+      future: true
+    }
+}, 
+{ 
+    name: "Jufufu",
+    img: "jufufu.png",
+    opts: {
+      faction: ["yunkyi"],
+      rarity: ["norank"],
+      future: true
+    }
+}, 
+{ 
+    name: "Pan Yinhu",
+    img: "panyinhu.png",
+    opts: {
+      faction: ["yunkui"],
+      rarity: ["norank"],
+      future: true
+    }
+}, 
+  
 //npcs somewhen idk
 
 ];
