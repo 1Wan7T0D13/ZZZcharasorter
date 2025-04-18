@@ -5,8 +5,8 @@ dataSet[dataSetVersion].options = [
   {
     name: "Select all Factions",
     key: "faction",
-    tooltip: "Check this to sort through all factions",
-    checked: true,
+    tooltip: "Check this to choose factions",
+    checked: false,
     sub: 
     [
       {name: "Random Play", key: "random"},
@@ -46,8 +46,8 @@ dataSet[dataSetVersion].options = [
   {
   name: "Select by rarity",
     key: "rarity",
-    tooltip: "Check this to sort all rarities",
-    checked: true,
+    tooltip: "Check this to choose rarities",
+    checked: false,
     sub: 
     [ 
       {name: "S-Ranks", key: "srank"},
