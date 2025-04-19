@@ -68,7 +68,7 @@ dataSet[dataSetVersion].options = [
       key: "skin",
       tooltip: "Check this to add skins",
       checked: true,
-  },
+  }
 
 ];
 
@@ -103,7 +103,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/anbyfour.png",
     opts: {
       faction: ["hares", "silver"],
-      rarity: ["arank"],
+      rarity: ["arank"]
     }
 },
 { 
@@ -111,7 +111,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/billy.png",
     opts: {
       faction: ["Hares", "soc"],
-      rarity: ["arank"],
+      rarity: ["arank"]
     }
 },
 { 
@@ -119,7 +119,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/nekomata.png",
     opts: {
       faction: ["hares"],
-      rarity: ["srank"],
+      rarity: ["srank"]
     }
 },
 
@@ -129,7 +129,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/koleda.png",
     opts: {
       faction: ["belobog"],
-      rarity: ["srank"],
+      rarity: ["srank"]
     }
 },
 { 
@@ -137,7 +137,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/anton.png",
     opts: {
       faction: ["belobog"],
-      rarity: ["arank"],
+      rarity: ["arank"]
     }
 },
 { 
@@ -145,7 +145,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/ben.png",
     opts: {
       faction: ["belobog"],
-      rarity: ["arank"],
+      rarity: ["arank"]
     }
 },
 { 
@@ -153,7 +153,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/grace.png",
     opts: {
       faction: ["belobog"],
-      rarity: ["srank"],
+      rarity: ["srank"]
     }
 },
 
@@ -163,7 +163,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/caesar.png",
     opts: {
       faction: ["soc"],
-      rarity: ["sarnk"],
+      rarity: ["sarnk"]
     }
 },
 { 
@@ -171,7 +171,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/lucy.png",
     opts: {
       faction: ["soc"],
-      rarity: ["arank"],
+      rarity: ["arank"]
     }
 },
 { 
@@ -179,7 +179,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/burnice.png",
     opts: {
       faction: ["soc"],
-      rarity: ["srank"],
+      rarity: ["srank"]
     }
 },
 { 
@@ -187,7 +187,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/lighter.png",
     opts: {
       faction: ["soc"],
-      rarity: ["srank"],
+      rarity: ["srank"]
     }
 },
 { 
@@ -195,7 +195,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/piper.png",
     opts: {
       faction: ["soc"],
-      rarity: ["arank"],
+      rarity: ["arank"]
     }
 },
 { 
@@ -203,7 +203,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/pulchra.png",
     opts: {
       faction: ["soc"],
-      rarity: ["arank"],
+      rarity: ["arank"]
     }
 },
 
@@ -223,7 +223,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       faction: ["mbird"],
       rarity: ["sarnk"],
-      future: true,
+      future: true
     }
 },
 
@@ -233,7 +233,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/soldier11",
     opts: {
       faction: ["nedf", "silver"],
-      rarity: ["srank"],
+      rarity: ["srank"]
     }
 },
 { 
@@ -241,7 +241,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/trigger.png",
     opts: {
       faction: ["nedf"],
-      rarity: ["srank"],
+      rarity: ["srank"]
     }
 },
 { 
@@ -250,7 +250,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       faction: ["nedf"],
       rarity: ["norank"],
-      future: true,
+      future: true
     }
 },
 { 
@@ -259,7 +259,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       faction: ["nedf"],
       rarity: ["norank"],
-      future: true,
+      future: true
     }
 },
 { 
@@ -269,7 +269,7 @@ dataSet[dataSetVersion].characterData = [
       faction: ["nedf"],
       rarity: ["norank"],
       future: true,
-      npc: true,
+      npc: true
     }
 },
 
@@ -279,7 +279,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/rina.png",
     opts: {
       faction: ["victoria"],
-      rarity: ["srank"],
+      rarity: ["srank"]
     }
 },
 { 
@@ -287,7 +287,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/lycaon.png",
     opts: {
       faction: ["victoria"],
-      rarity: ["srank"],
+      rarity: ["srank"]
     }
 },
 { 
@@ -295,7 +295,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/corin.png",
     opts: {
       faction: ["victoria"],
-      rarity: ["arank"],
+      rarity: ["arank"]
     }
 },
 { 
@@ -303,7 +303,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/ellen.png",
     opts: {
       faction: ["victoria"],
-      rarity: ["sarnk"],
+      rarity: ["sarnk"]
     }
 },
 
@@ -313,7 +313,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/zhuyuan.png",
     opts: {
       faction: ["neps"],
-      rarity: ["srank"],
+      rarity: ["srank"]
     }
 },
 { 
@@ -321,7 +321,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/jane.png",
     opts: {
       faction: ["neps"],
-      rarity: ["srank"],
+      rarity: ["srank"]
     }
 },
 { 
@@ -329,7 +329,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/seth.png",
     opts: {
       faction: ["neps"],
-      rarity: ["arank"],
+      rarity: ["arank"]
     }
 },
 { 
@@ -337,7 +337,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/qingyi.png",
     opts: {
       faction: ["neps"],
-      rarity: ["srank"],
+      rarity: ["srank"]
     }
 },
 
@@ -347,7 +347,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/miyabi.png",
     opts: {
       faction: ["hand", "void"],
-      rarity: ["srank"],
+      rarity: ["srank"]
     }
 },
 { 
@@ -355,7 +355,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/yanagi.png",
     opts: {
       faction: ["hand"],
-      rarity: ["srank"],
+      rarity: ["srank"]
     }
 },
 { 
@@ -363,7 +363,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/harumasa.png",
     opts: {
       faction: ["hand"],
-      rarity: ["srank"],
+      rarity: ["srank"]
     }
 },
 { 
@@ -371,7 +371,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/soukaku.png",
     opts: {
       faction: ["hand"],
-      rarity: ["arank"],
+      rarity: ["arank"]
     }
 },
 
@@ -381,7 +381,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/astra.png",
     opts: {
       faction: ["lyra"],
-      rarity: ["srank"],
+      rarity: ["srank"]
     }
 },
 { 
@@ -389,7 +389,7 @@ dataSet[dataSetVersion].characterData = [
     img: "src/assets/chars/evelyn.png",
     opts: {
       faction: ["lyra"],
-      rarity: ["srank"],
+      rarity: ["srank"]
     }
 },
 
@@ -880,5 +880,5 @@ dataSet[dataSetVersion].characterData = [
       rarity: ["norank"],
       future: true
     }
-}, 
+}
 ];
