@@ -230,7 +230,7 @@ dataSet[dataSetVersion].characterData = [
 //OBOL SQUAAAAAAAAAAAAAAAAAAAAD
 { 
     name: "Soldier 11",
-    img: "soldier11",
+    img: "soldier11.png",
     opts: {
       faction: ["nedf", "silver"],
       rarity: ["srank"]
