@@ -6,7 +6,7 @@ dataSet[dataSetVersion].options = [
     name: "Select by Factions",
     key: "faction",
     tooltip: "Check this to choose factions",
-    checked: false,
+    checked: true,
     sub: 
     [
       {name: "Random Play", key: "random"},
