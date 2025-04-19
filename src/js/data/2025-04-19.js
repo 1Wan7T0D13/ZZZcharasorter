@@ -23,7 +23,7 @@ dataSet[dataSetVersion].options = [
       {name: "Yunkui Summit", key: "yunkui"},
       {name: "Silver Squad", key: "silver"},
       {name: "Void Hunters", key: "void"},
-      {name: "Unknown Faction", key: "nofact"},
+      {name: "Unknown Faction", key: "nofact"}
 
       // {name: "X", key: "X"}, empty don't change
     ]
@@ -38,7 +38,7 @@ dataSet[dataSetVersion].options = [
     [ 
       {name: "S-Ranks", key: "srank"},
       {name: "A-Ranks", key: "arank"},
-      {name: "Unknown Rank", key: "norank"},
+      {name: "Unknown Rank", key: "norank"}
     ]
   },
 
@@ -46,14 +46,14 @@ dataSet[dataSetVersion].options = [
     name: "Remove future characters",
       key: "future",
       tooltip: "This is for characters who will be released in the future",
-      checked: false,
+      checked: false
   },
   
   {
     name: "Remove notable NPCs",
       key: "npc",
       tooltip: "Check this to add notable NPCs",
-      checked: false,
+      checked: false
   },
 
 
@@ -61,13 +61,13 @@ dataSet[dataSetVersion].options = [
     name: "Remove character alts",
       key: "altform",
       tooltip: "Check this to add alternative forms of character",
-      checked: false,
+      checked: false
   },
   {
     name: "Remove skins",
       key: "skin",
       tooltip: "Check this to add skins",
-      checked: true,
+      checked: true
   }
 
 ];
