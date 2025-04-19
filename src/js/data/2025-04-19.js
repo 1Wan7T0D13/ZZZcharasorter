@@ -396,7 +396,7 @@ dataSet[dataSetVersion].characterData = [
 //alts
 { 
     name: "Silver Soldier Anby",
-    img: "anbyfive",
+    img: "anbyfive.png",
     opts: {
       faction: ["silver", "hares"],
       rarity: ["srank"],
@@ -434,7 +434,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Joyous",
-    img: "npcjoyous.png",
+    img: "npcjoyuos.png",
     opts: {
       faction: ["void"],
       rarity: ["norank"],
@@ -755,7 +755,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Roland",
-    img: "npcrolands.png",
+    img: "npcroland.png",
     opts: {
       faction: ["nedf"],
       rarity: ["norank"],
