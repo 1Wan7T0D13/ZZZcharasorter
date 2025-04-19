@@ -20,4 +20,4 @@ let dataSetVersion = '';
 /**
  * Image root, will be appended to the start of every image URL.
  */
-const imageRoot = 'https://github.com/1Wan7T0D13/ZZZcharasorter/src/assets/chars/';
+const imageRoot = 'src/assets/chars/';
