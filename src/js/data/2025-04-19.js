@@ -434,7 +434,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Joyous",
-    img: "src/assets/chars/npcjoyous.png",
+    img: "npcjoyous.png",
     opts: {
       faction: ["void"],
       rarity: ["norank"],
@@ -443,7 +443,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Colonel Vike",
-    img: "src/assets/chars/npcvike.png",
+    img: "npcvike.png",
     opts: {
       faction: ["void"],
       rarity: ["norank"],
@@ -452,7 +452,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Leader of the Falkenhayn Mercenary Troupe",
-    img: "src/assets/chars/npcvoidmercenaryboss.png",
+    img: "npcvoidmercenaryboss.png",
     opts: {
       faction: ["void"],
       rarity: ["norank"],
@@ -461,7 +461,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Professor Arche",
-    img: "src/assets/chars/npcarche.png",
+    img: "npcarche.png",
     opts: {
       faction: ["void"],
       rarity: ["norank"],
@@ -472,7 +472,7 @@ dataSet[dataSetVersion].characterData = [
 //idols
 { 
     name: "Robot girl",
-    img: "src/assets/chars/idolyutane.png",
+    img: "idolyutane.png",
     opts: {
       faction: ["idols"],
       rarity: ["norank"],
@@ -481,7 +481,7 @@ dataSet[dataSetVersion].characterData = [
 }, 
 { 
     name: "Angel girl",
-    img: "src/assets/chars/idolsariel.png",
+    img: "idolsariel.png",
     opts: {
       faction: ["idols"],
       rarity: ["norank"],
@@ -490,7 +490,7 @@ dataSet[dataSetVersion].characterData = [
 }, 
 { 
     name: "Blonde girl",
-    img: "src/assets/chars/idolchinatsu.png",
+    img: "idolchinatsu.png",
     opts: {
       faction: ["idols"],
       rarity: ["norank"],
@@ -501,7 +501,7 @@ dataSet[dataSetVersion].characterData = [
 //yunkui
 { 
     name: "Yi Xuan",
-    img: "src/assets/chars/yixuan.png",
+    img: "yixuan.png",
     opts: {
       faction: ["yunkyi"],
       rarity: ["norank"],
@@ -510,7 +510,7 @@ dataSet[dataSetVersion].characterData = [
 }, 
 { 
     name: "Jufufu",
-    img: "src/assets/chars/jufufu.png",
+    img: "jufufu.png",
     opts: {
       faction: ["yunkyi"],
       rarity: ["norank"],
@@ -519,7 +519,7 @@ dataSet[dataSetVersion].characterData = [
 }, 
 { 
     name: "Pan Yinhu",
-    img: "src/assets/chars/panyinhu.png",
+    img: "panyinhu.png",
     opts: {
       faction: ["yunkui"],
       rarity: ["norank"],
@@ -530,7 +530,7 @@ dataSet[dataSetVersion].characterData = [
 //npc
 { 
     name: "Asha",
-    img: "src/assets/chars/npcasha.png",
+    img: "npcasha.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -539,7 +539,7 @@ dataSet[dataSetVersion].characterData = [
 }, 
 { 
     name: "Bellum",
-    img: "src/assets/chars/npcbellum.png",
+    img: "npcbellum.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -548,7 +548,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Bertha",
-    img: "src/assets/chars/npcbertha.png",
+    img: "npcbertha.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -557,7 +557,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Bid Daddy",
-    img: "src/assets/chars/npcbigdaddy.png",
+    img: "npcbigdaddy.png",
     opts: {
       faction: ["soc"],
       rarity: ["norank"],
@@ -566,7 +566,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Justin Bringer",
-    img: "src/assets/chars/npcbringer.png",
+    img: "npcbringer.png",
     opts: {
       faction: ["neps"],
       rarity: ["norank"],
@@ -575,7 +575,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Chop",
-    img: "src/assets/chars/npcchop.png",
+    img: "npcchop.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -584,7 +584,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Coco",
-    img: "src/assets/chars/npccoco.png",
+    img: "npccoco.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -593,7 +593,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Elfy",
-    img: "src/assets/chars/npcelfy.png",
+    img: "npcelfy.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -602,7 +602,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Enzo",
-    img: "src/assets/chars/npcenzo.png",
+    img: "npcenzo.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -611,7 +611,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Eous",
-    img: "src/assets/chars/npceous.png",
+    img: "npceous.png",
     opts: {
       faction: ["random"],
       rarity: ["norank"],
@@ -620,7 +620,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Girl A",
-    img: "src/assets/chars/npcgirla.png",
+    img: "npcgirla.png",
     opts: {
       faction: ["silver"],
       rarity: ["norank"],
@@ -629,7 +629,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Unknown thiren guy",
-    img: "src/assets/chars/npcguyidk.png",
+    img: "npcguyidk.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -638,7 +638,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Hartman Ravenclock",
-    img: "src/assets/chars/npchartmanravenclock.png",
+    img: "npchartmanravenclock.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -647,7 +647,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Howl",
-    img: "src/assets/chars/npchowl.png",
+    img: "npchowl.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -656,7 +656,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Inky",
-    img: "src/assets/chars/npcinky.png",
+    img: "npcinky.png",
     opts: {
       faction: ["random"],
       rarity: ["norank"],
@@ -665,7 +665,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Lyla",
-    img: "src/assets/chars/npclyla.png",
+    img: "npclyla.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -674,7 +674,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Miyabi's mother",
-    img: "src/assets/chars/npcmiyabimom.png",
+    img: "npcmiyabimom.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -683,7 +683,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Monica",
-    img: "src/assets/chars/npcmonica.png",
+    img: "npcmonica.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -692,7 +692,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Mors",
-    img: "src/assets/chars/npcmors.png",
+    img: "npcmors.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -701,7 +701,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Null_Face",
-    img: "src/assets/chars/npcnullface.png",
+    img: "npcnullface.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -710,7 +710,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Old Duyi",
-    img: "src/assets/chars/npcoldduyi.png",
+    img: "npcoldduyi.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -719,7 +719,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Perlman",
-    img: "src/assets/chars/npcperlman.png",
+    img: "npcperlman.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -728,7 +728,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Pompey",
-    img: "src/assets/chars/npcpompey.png",
+    img: "npcpompey.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -737,7 +737,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Rain",
-    img: "src/assets/chars/npcrain.png",
+    img: "npcrain.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -746,7 +746,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Ray",
-    img: "src/assets/chars/npcray.png",
+    img: "npcray.png",
     opts: {
       faction: ["nedf"],
       rarity: ["norank"],
@@ -755,7 +755,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Roland",
-    img: "src/assets/chars/npcrolands.png",
+    img: "npcrolands.png",
     opts: {
       faction: ["nedf"],
       rarity: ["norank"],
@@ -764,7 +764,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Sarah",
-    img: "src/assets/chars/npcsarah.png",
+    img: "npcsarah.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -773,7 +773,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Unknown guy",
-    img: "src/assets/chars/npcseriousguy.png",
+    img: "npcseriousguy.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -782,7 +782,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Sjal",
-    img: "src/assets/chars/npcsjal.png",
+    img: "npcsjal.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -791,7 +791,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Susie",
-    img: "src/assets/chars/npcsusie.png",
+    img: "npcsusie.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -800,7 +800,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Tin Master",
-    img: "src/assets/chars/npctinmaster.png",
+    img: "npctinmaster.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -809,7 +809,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Tomiya",
-    img: "src/assets/chars/npctomiya.png",
+    img: "npctomiya.png",
     opts: {
       faction: ["neps"],
       rarity: ["norank"],
@@ -818,7 +818,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Twiggy",
-    img: "src/assets/chars/npctwiggy.png",
+    img: "npctwiggy.png",
     opts: {
       faction: ["silver"],
       rarity: ["norank"],
@@ -827,7 +827,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Venus",
-    img: "src/assets/chars/npcvenus.png",
+    img: "npcvenus.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -836,7 +836,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Joran De Winter",
-    img: "src/assets/chars/npcwinter.png",
+    img: "npcwinter.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -845,7 +845,7 @@ dataSet[dataSetVersion].characterData = [
 },
 { 
     name: "Tessa De Winter",
-    img: "src/assets/chars/npcwinter2.png",
+    img: "npcwinter2.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -856,7 +856,7 @@ dataSet[dataSetVersion].characterData = [
 //2.x teaser unknowns
 { 
     name: "Racoon girl",
-    img: "src/assets/chars/racoongirl.png",
+    img: "racoongirl.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -865,7 +865,7 @@ dataSet[dataSetVersion].characterData = [
 }, 
 { 
     name: "Alice",
-    img: "src/assets/chars/alice.png",
+    img: "alice.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
@@ -874,7 +874,7 @@ dataSet[dataSetVersion].characterData = [
 }, 
 { 
     name: "Zhao",
-    img: "src/assets/chars/zhao.png",
+    img: "zhao.png",
     opts: {
       faction: ["nofact"],
       rarity: ["norank"],
