@@ -3,7 +3,7 @@ dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
-    name: "Select by Factions",
+    name: "Sort by Factions",
     key: "faction",
     tooltip: "Check this to choose factions",
     checked: true,
@@ -16,9 +16,9 @@ dataSet[dataSetVersion].options = [
       {name: "Mockingbird", key: "mbird"},
       {name: "Angels of Delusion", key: "idols"},
       {name: "Victoria Housekeeping Co.", key: "victoria"},
-      {name: "N.E.D.F.", tooltip: "Includes Obol Squad",  key: "nedf"},
-      {name: "N.E.P.S.", tooltip: "Includes Criminal Invistigation Team", key: "neps"},
-      {name: "H.A.N.D.", tooltip: "Includes Section 6", key: "hand"},
+      {name: "N.E.D.F. (Obol Squad)", tooltip: "Defense Force",  key: "nedf"},
+      {name: "N.E.P.S. (Criminal Inv. Team)", tooltip: "Public Security", key: "neps"},
+      {name: "H.A.N.D. (Section 6)", key: "hand"},
       {name: "Start of Lyra", key: "lyra"},
       {name: "Yunkui Summit", key: "yunkui"},
       {name: "Silver Squad", key: "silver"},
@@ -30,7 +30,7 @@ dataSet[dataSetVersion].options = [
   },
   
   {
-    name: "Select by rarity",
+    name: "Sort by rarity",
     key: "rarity",
     tooltip: "Check this to choose rarities",
     checked: false,
@@ -52,7 +52,7 @@ dataSet[dataSetVersion].options = [
   {
     name: "Remove notable NPCs",
       key: "npc",
-      tooltip: "Check this to add notable NPCs",
+      tooltip: "This is for NPCs",
       checked: false
   },
 
@@ -60,13 +60,13 @@ dataSet[dataSetVersion].options = [
   {
     name: "Remove character alts",
       key: "altform",
-      tooltip: "Check this to add alternative forms of character",
+      tooltip: "This is for alts (when we get 2 playable agents that are 1 character, like Anby and S0-Anby)",
       checked: true
   },
   {
-    name: "Remove skins",
+    name: "Remove outfits",
       key: "skin",
-      tooltip: "Check this to add skins",
+      tooltip: "This is for outfits (different skins for 1 agent)",
       checked: true
   }
 
@@ -89,7 +89,7 @@ dataSet[dataSetVersion].characterData = [
 //THIS IS EMPTY DON'T FUCKING CHANGE
 
 //begin chars buhhhhh
-//cunning hares
+
 { 
     name: "Wise",
     img: "wise.png",
@@ -115,6 +115,8 @@ dataSet[dataSetVersion].characterData = [
       npc: true
     }
 },
+
+//cunning hares
 { 
     name: "Nicole Demara",
     img: "nicole.png",
