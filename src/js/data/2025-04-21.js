@@ -239,7 +239,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       faction: ["mbird"],
       rarity: ["srank"],
-      future: true
     }
 },
 { 
@@ -248,7 +247,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       faction: ["mbird"],
       rarity: ["sarnk"],
-      future: true
     }
 },
 
