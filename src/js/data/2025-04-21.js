@@ -61,7 +61,7 @@ dataSet[dataSetVersion].options = [
     name: "Remove character alts",
       key: "altform",
       tooltip: "Check this to add alternative forms of character",
-      checked: false
+      checked: true
   },
   {
     name: "Remove skins",
