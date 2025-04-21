@@ -526,7 +526,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Yi Xuan",
     img: "yixuan.png",
     opts: {
-      faction: ["yunkyi"],
+      faction: ["yunkui"],
       rarity: ["norank"],
       future: true
     }
@@ -535,7 +535,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Jufufu",
     img: "jufufu.png",
     opts: {
-      faction: ["yunkyi"],
+      faction: ["yunkui"],
       rarity: ["norank"],
       future: true
     }
